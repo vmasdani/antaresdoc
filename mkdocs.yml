@@ -1,0 +1,11 @@
+site_name: My Docs
+
+nav:
+- Getting Started: 'getting-started.md'
+- Examples & Libraries: 'example-libraries.md'
+- Data Model: 'data-model.md'
+- Port Configuration: 'port-configuration.md'
+- HTTP API: 'http-api.md'
+- MQTT API: 'mqtt-api.md'
+- List of Acronyms: 'acronyms.md'
+- Useful Tools: 'useful-tools.md'
